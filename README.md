@@ -82,7 +82,8 @@ The lecture delves into the standard methods attackers use to compromise passwor
 <h4><ins>Real-World Examples</ins></h4>
 
 <ul>
-  <li>The instructor cites the 2013 Adobe Breach, where attackers accessed millions of user accounts with weak passwords like '123456'.</li>
+  <li>The instructor cites the 2013 Adobe Breach, where attackers accessed millions of user accounts with weak passwords like '123456'.
+  </li>
   <li>The 2020 Twitter Spear-Phishing Attack, where several high-profile Twitter accounts were compromised through a phone spear-phishing attack targeting Twitter employees, is also discussed.
 </li>
 </ul>
@@ -93,17 +94,24 @@ The lecture delves into the standard methods attackers use to compromise passwor
 <h2>Creating Strong Passwords</h2>
 The instructor outlines the characteristics of strong passwords:
 <ul>
-  <li>Length: At least 12 characters long.</li>
-  <li>Complexity: A mix of uppercase and lowercase letters, numbers, and symbols.</li>
-  <li>Unpredictability: Avoiding common words, phrases, or personal information.
+  <li>
+  
+  **Length:** At least 12 characters long.</li>
+  <li>
+    
+  **Complexity:** A mix of uppercase and lowercase letters, numbers, and symbols.</li>
+  <li>
+    
+  **Unpredictability:** Avoiding common words, phrases, or personal information.
 </li>
 </ul>
 
-<h3><ins></ins>
+<h3><ins>
   
 **Password Entropy**</ins>
   </h3>
-Password entropy, a measure of a password's unpredictability, is explained. Higher entropy means a password is harder to crack.
+
+**Password entropy:** A measure of a password's unpredictability, is explained. Higher entropy means a password is harder to crack.
 
 <h3><ins>
   
@@ -111,7 +119,8 @@ Password entropy, a measure of a password's unpredictability, is explained. High
   </h3>
 To safeguard against brute force and dictionary attacks:
 <ul>
-  <li>Use complex and lengthy passwords.</li>
+  <li>Use complex and lengthy passwords.
+  </li>
 <li>Implement account lockout policies after failed attempts.</li>
 </li>
 </ul>
@@ -120,7 +129,8 @@ To safeguard against brute force and dictionary attacks:
   
 **To protect against phishing and social engineering**</ins></h3>
 <ul>
-  <li>Be cautious of unsolicited emails or messages asking for passwords.</li>
+  <li>Be cautious of unsolicited emails or messages asking for passwords.
+  </li>
    <li>Verify the authenticity of websites before entering login details.</li>
 </ul>
   
