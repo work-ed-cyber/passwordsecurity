@@ -46,13 +46,13 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0158	- Knowledge of organizational information technology (IT) user security policies (e.g., account creation, password rules, access control).</li>
+<li>K0158: Knowledge of organizational information technology (IT) user security policies (e.g., account creation, password rules, access control).</li>
 <br>
-<li>K0336	- Knowledge of access authentication methods.	</li>
+<li>K0336: Knowledge of access authentication methods.	</li>
 <br>
-<li>K0632	- Knowledge of security and privacy controls.</li>
+<li>K0632: Knowledge of security and privacy controls.</li>
 <br>
-<li>S0067	- Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files).</li>
+<li>S0067: Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files).</li>
 </ul>
 
 <h2>Lesson Prerequisites</h2>
@@ -111,7 +111,10 @@ The instructor outlines the characteristics of strong passwords:
 **Password Entropy**</ins>
   </h3>
 
-**Password entropy:** A measure of a password's unpredictability, is explained. Higher entropy means a password is harder to crack.
+**Password entropy:** 
+<ul>
+  <li>A measure of a password's unpredictability, is explained. Higher entropy means a password is harder to crack.</li>
+</ul>
 
 <h3><ins>
   
@@ -119,8 +122,9 @@ The instructor outlines the characteristics of strong passwords:
   </h3>
 To safeguard against brute force and dictionary attacks:
 <ul>
+  <br>
   <li>Use complex and lengthy passwords.
-  </li>
+  </li><br>
 <li>Implement account lockout policies after failed attempts.</li>
 </li>
 </ul>
@@ -130,7 +134,7 @@ To safeguard against brute force and dictionary attacks:
 **To protect against phishing and social engineering**</ins></h3>
 <ul>
   <li>Be cautious of unsolicited emails or messages asking for passwords.
-  </li>
+  </li><br>
    <li>Verify the authenticity of websites before entering login details.</li>
 </ul>
   
@@ -147,7 +151,14 @@ To safeguard against brute force and dictionary attacks:
 <h2>Conclusion</h2>
 The lecture concludes with a reminder that strong passwords are crucial in protecting against unauthorized access. Students are encouraged to use password managers and enable MFA where possible. They are also warned to stay vigilant against phishing and social engineering attempts.
 
-
+<h2>Definitions</h2>
+<ul>
+<li><b>Phishing:</b> A fraudulent attempt to obtain sensitive information by pretending to be a trustworthy source through emails or other communication methods.</li><br>
+<li><b>Brute Force Attacks:</b> A method where attackers systematically try all possible combinations of passwords or encryption keys until the correct one is found.</li><br>
+<li><b>Dictionary Attacks:</b> A type of brute force attack that uses a precompiled list of common passwords or phrases to attempt to gain unauthorized access.</li><br>
+<li><b>Password Entropy:</b> A measure of password strength based on its randomness and complexity, which affects its resistance to being guessed or cracked.</li><br>
+<li><b>MFA (Multi-Factor Authentication):</b> A security method that requires users to provide two or more forms of verification (e.g., password, text message code, biometric scan) to gain access to an account or system.</li>
+</ul>
 
 
 <h2> Presentation</h2>
@@ -157,6 +168,7 @@ The lecture concludes with a reminder that strong passwords are crucial in prote
 
 <a href="https://drive.google.com/file/d/1y17Tm9MekQQtKXN_vxPOjXXHRS_6AUFe/view?usp=sharing"> Digital Certificates and Trust</a>
 
+<h2>Games</h2>
 
 <h2>Additonal Resources</h2>
 
