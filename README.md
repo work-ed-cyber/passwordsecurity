@@ -166,7 +166,7 @@ The lecture concludes with a reminder that strong passwords are crucial in prote
 
 <h2> Hands-On Labs</h2>
 
-<a href="https://drive.google.com/file/d/1y17Tm9MekQQtKXN_vxPOjXXHRS_6AUFe/view?usp=sharing"> Digital Certificates and Trust</a>
+<a href="https://github.com/work-ed-cyber/11.2-med"> Password Security </a> - Medium
 
 <h2>Games</h2>
 <a href="https://create.kahoot.it/share/quiz-lesson-11-2-password-security/103d9888-1ba7-4c53-9377-737b55e0602a"> Kahoot: Password Security </a>
