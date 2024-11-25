@@ -162,7 +162,7 @@ The lecture concludes with a reminder that strong passwords are crucial in prote
 
 
 <h2> Presentation</h2>
-<a href="https://docs.google.com/presentation/d/1BvF2dI3Z64vCrPwQsKU0zG9-K9ai5PTt/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Using SSL/TLS Encryption</a>
+<a href="https://docs.google.com/presentation/d/1xN4fxsy00FDWthEvmokh1OFj4-ALlJRg/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Password Security</a>
 
 <h2> Hands-On Labs</h2>
 <a href="https://github.com/work-ed-cyber/11.2-easy">Password Security Lab</a> - Easy <br>
